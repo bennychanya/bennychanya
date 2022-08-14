@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bennychanya
-- 👀 Trying to re-learn git version control
 - 📫 How to reach me - https://www.linkedin.com/in/benny-chan-960954188/
 
 <!---
